@@ -1,4 +1,4 @@
 # newDemo
 This is my first git repository
 <br>
-Author - Pranab Halder
+Author - Pranab Hal
